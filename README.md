@@ -31,7 +31,7 @@ To disable it, simply add this to the `hazelcast.xml` file:
     <property name="hazelcast.shutdownhook.enabled">false</property>
   </properties>
 ----
-== The application.properties
+The application.properties
 
 The host should be set the machine address which runing server, that can be used when servers run different machine.
 
