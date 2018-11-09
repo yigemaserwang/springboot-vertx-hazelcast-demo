@@ -1,5 +1,5 @@
 
-Spring Boot Hazelcast Clustering demo 
+Spring Boot Vertx Hazelcast Clustering demo 
 
 This project shows how you can setup a clustered Vert.x embedded in Spring Boot, having the Spring container managing Hazelcast.which originate from 
 https://github.com/vert-x3/vertx-examples/tree/master/spring-examples/springboot-clustering ，but the example is runing on
