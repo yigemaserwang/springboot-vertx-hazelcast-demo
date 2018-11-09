@@ -54,7 +54,7 @@ Then start the other instances without the HTTP server:
 mvn spring-boot:run
 ----
 
-And then start the other instances the other without the HTTP server:
+And then start the third instances on the other machine without the HTTP server:
 
 [source,shell]
 ----
